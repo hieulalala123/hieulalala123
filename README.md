@@ -74,7 +74,7 @@ profile = {
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
 | **Credit Risk Modelling** | PD-style scoring, feature selection, calibration &amp; validation, business-aligned thresholds | `Logistic regression` · `Streamlit` · `SQL` |
-| **RFM Customer Segmentation** | Recency–Frequency–Monetary scoring &amp; clustering for value-based segmentation | `Python` ·· `SQL` , `Superset`|
+| **RFM Customer Segmentation** | Recency–Frequency–Monetary scoring &amp; clustering for value-based segmentation | `Python` · `SQL` , `Superset`|
 | **Titanic Survival** | End-to-end classification pipeline: EDA → feature engineering → model evaluation | `Machine Learning` · `Streamlit` |
 
 ---
