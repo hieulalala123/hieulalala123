@@ -49,7 +49,7 @@ profile = {
 >### 🚀 Currently exploring
 * **MLOps Maturity:** Building reproducible pipelines with `mlflow` and `feast` (feature store).
 * **Production Stability:** Implementing automated drift detection and monitoring to ensure long-term model performance.
-* **Theory:** Deepening insights into statistical learning theory to optimize model architecture.
+* **Theory:** Deepening insights into statistical learning theory such as causal inference.
 
 ---
 
