@@ -94,7 +94,6 @@ profile = {
 
 <p>
   <img src="https://img.shields.io/badge/FRM%20Part%20II-3E2723?style=for-the-badge&logoColor=white" alt="FRM Part II"/>
-   <img src="https://img.shields.io/badge/CFA%20Level%20II-3E2723?style=for-the-badge&logoColor=white" alt="FRM Part II"/>
    <img src="https://img.shields.io/badge/FTU%20ALU%20-3E2723?style=for-the-badge&logoColor=white" alt="FRM Part II"/>
 </p>
 
