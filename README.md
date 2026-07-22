@@ -73,9 +73,10 @@ profile = {
 
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
-| **Credit Risk Modelling** | PD-style scoring, feature selection, calibration &amp; validation, business-aligned thresholds | `Logistic regression` · `Streamlit` · `SQL` |
-| **RFM Customer Segmentation** | Recency–Frequency–Monetary scoring &amp; clustering for value-based segmentation | `Python` · `SQL` , `Superset`|
-| **Titanic Survival** | End-to-end classification pipeline: EDA → feature engineering → model evaluation | `Machine Learning` · `Streamlit` |
+| **[Credit Risk Modelling](https://github.com/hieulalala123/Credit-Risk-Modelling---Coursera-and-Demo-in-Streamlit)** | PD-style scoring, feature selection, calibration &amp; validation, business-aligned thresholds | `Logistic regression` · `Streamlit` · `SQL` |
+| **[Churn Classification and Survival analysis](https://github.com/hieulalala123/churn-prediction)** | Recency–Frequency–Monetary scoring &amp; clustering for value-based segmentation | `Python` · `Docker` · `MLFlow` · `MLOps` · `X-AI`|
+| **[RFM Customer Segmentation](https://github.com/hieulalala123/RFM-data-analysis-in-fintech-tutorial)** | Recency–Frequency–Monetary scoring &amp; clustering for value-based segmentation | `Python` · `SQL` , `Superset`|
+| **[Titanic Survival Prediction](https://github.com/hieulalala123/Titanic-Survival-Prediction)** | End-to-end classification pipeline: EDA → feature engineering → model evaluation | `Machine Learning` · `Streamlit` |
 
 ---
 
